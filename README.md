@@ -6,11 +6,12 @@
 > displays statistical data on human navels (innies or outies) and frequency
 > of washing.  Medical data show that regular washing of one's navel helps to 
 > avoid certain types of bacterial infections.
-
-### Cartoon of Bill, who cleans his navel and avoids infections!
-<img src="./Billcleanshisnavel.jpg"
+>  <img src=".\Billcleanhisnavel.jpg"
      alt="NavelCartoon"
-     style="float: right;margin-right: 10px;  width=100 height=150" />
+     align="right"
+     width="250" height="350" />
+
+<!--  ### Cartoon of Bill, who cleans his navel and avoids infections! -->
 
 ### Flow control of full stack application from back-end data analysis to front-end
 ### visualization and deployment on the Web
