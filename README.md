@@ -24,4 +24,4 @@
 <img src=".\screenshot.png"
      alt="Web app screenshot"
      align ="center"
-     width="600" height="800" />
+     width="600" height="700" />
