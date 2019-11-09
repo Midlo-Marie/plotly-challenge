@@ -1,0 +1,1 @@
+web: gunicorn navel-gazing.app:app
