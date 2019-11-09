@@ -10,12 +10,11 @@
 <!--  ### Cartoon of Bill, who cleans his navel and avoids infections! -->
 <img src=".\Billcleanhisnavel.jpg"
      alt="NavelCartoon"
-     float="right"
-     width="250" height="350" />
+     align ="right"
+     width="250" height="300" />
 
 ### Flow control of full stack application from back-end data analysis to front-end
 ### visualization and deployment on the Web
 
-* Back-end technology: Python and SQlite, GitHub repository
+* Back-end technology: Python, SQlite, Plotly, GitHub repository
 * Front-end technology: HTML, JS, CSS, Heroku deployment
-* 
