@@ -18,3 +18,10 @@
 
 * Back-end technology: Python, SQlite, Plotly, GitHub repository
 * Front-end technology: HTML, JS, CSS, Heroku deployment
+
+### Screenshot of the Web page
+
+<img src=".\screenshot.png"
+     alt="Web app screenshot"
+     align ="center"
+     width="600" height="300" />
